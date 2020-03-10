@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5612ec35-2364-4c3b-a32f-6a7c1cb5c150" name="Default Changelist" comment="" />
+    <list default="true" id="5612ec35-2364-4c3b-a32f-6a7c1cb5c150" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtCoder Beginner Contest/2013_ABC/2013-10-12(ABC001)/2013-10-12-A.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder Beginner Contest/2013_ABC/2013-10-12(ABC001)/ABC001_A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtCoder Beginner Contest/2013_ABC/2013-10-12(ABC001)/2013-10-12-B.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder Beginner Contest/2013_ABC/2013-10-12(ABC001)/ABC001_B.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1U3t8doXnWTttnrRihPwaQyBUqY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Other Contest/日立製作所 社会システム事業部 プログラミングコンテスト2020" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -200,5 +208,16 @@
       <updated>1572180126024</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
