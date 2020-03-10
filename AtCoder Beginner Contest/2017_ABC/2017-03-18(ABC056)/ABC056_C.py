@@ -1,0 +1,14 @@
+x = int(input())
+
+i = 0
+sum = 0
+
+while(1):
+    i += 1
+    sum += i
+    if sum < x:
+        continue
+    else:
+        break
+
+print(i)
